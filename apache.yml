@@ -1,0 +1,6 @@
+---
+- name: "Déploiement d'apache avec Docker"
+  hosts: prod
+  become: yes
+  roles:
+    - { role: ansible-role-containerized-apache }
