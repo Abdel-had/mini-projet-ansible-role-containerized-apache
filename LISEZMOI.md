@@ -1,10 +1,10 @@
-Author: Abdel-had HANAMI
+Auteur : Abdel-had HANAMI
 
-Context: Bootcamp DevOps training, 12th promotion
+Contexte : Bootcamp DevOps - promotion 12
 
-Training center: eazytraining.fr
+Centre de formation : eazytraining.fr
 
-Release date: 10th of October, 2023
+Date de publication : le 10 Octobre 2023
 
 LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
 
